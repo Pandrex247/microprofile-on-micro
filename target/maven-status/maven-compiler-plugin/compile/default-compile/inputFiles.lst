@@ -1,0 +1,11 @@
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/health/FragileHealthCheckExample.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/faulttolerance/FaultToleranceServlet.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/metrics/MetricsJaxrs.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/jwtauth/JwtTokenGenerator.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/faulttolerance/FaultToleranceExample.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/jwtauth/JwtAuthServlet.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/health/HealthCheckExample.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/jwtauth/JwtAuthJaxrs.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/jaxrs/ApplicationInit.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/config/ConfigExample.java
+/home/andrew/NetBeansProjects/MicroProfileOnMicro/src/main/java/fish/payara/examples/microprofile/config/ConfigServlet.java

@@ -1,0 +1,4 @@
+create-managed-executor-service concurrent/__wibbly
+create-managed-scheduled-executor-service concurrent/__wobbly
+set-fault-tolerance-configuration --managedexecutorservicename=concurrent/__wibbly --managedscheduledexecutorservicename=concurrent/__wobbly
+

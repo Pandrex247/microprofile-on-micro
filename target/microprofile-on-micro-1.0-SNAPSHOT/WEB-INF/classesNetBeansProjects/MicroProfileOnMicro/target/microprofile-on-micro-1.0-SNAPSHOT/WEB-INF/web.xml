@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>FaultToleranceServlet</servlet-name>
+        <servlet-class>fish.payara.examples.microprofile.faulttolerance.FaultToleranceServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ConfigServlet</servlet-name>
+        <servlet-class>fish.payara.examples.microprofile.config.ConfigServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FaultToleranceServlet</servlet-name>
+        <url-pattern>/FaultToleranceServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ConfigServlet</servlet-name>
+        <url-pattern>/ConfigServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

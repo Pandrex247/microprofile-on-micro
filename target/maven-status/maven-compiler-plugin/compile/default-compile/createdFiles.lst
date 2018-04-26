@@ -1,0 +1,11 @@
+fish/payara/examples/microprofile/health/HealthCheckExample.class
+fish/payara/examples/microprofile/faulttolerance/FaultToleranceExample.class
+fish/payara/examples/microprofile/jwtauth/JwtTokenGenerator.class
+fish/payara/examples/microprofile/faulttolerance/FaultToleranceServlet.class
+fish/payara/examples/microprofile/metrics/MetricsJaxrs.class
+fish/payara/examples/microprofile/jwtauth/JwtAuthJaxrs.class
+fish/payara/examples/microprofile/jwtauth/JwtAuthServlet.class
+fish/payara/examples/microprofile/jaxrs/ApplicationInit.class
+fish/payara/examples/microprofile/health/FragileHealthCheckExample.class
+fish/payara/examples/microprofile/config/ConfigExample.class
+fish/payara/examples/microprofile/config/ConfigServlet.class
